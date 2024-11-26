@@ -8,10 +8,10 @@ This Data Analysis project template is designed to provide a clear, structured f
 
 In this section, provide a concise, 100-150 word overview of your project. Start by clearly defining the problem you aim to solve and explain its relevance to your target audience or industry. Describe the innovative approach or tools you’re using to address this problem, emphasizing the potential impact of your solution. Avoid heavy technical jargon, focusing instead on the business value and practicality of your work. For example:
 
-What issue are you addressing?
-Why does it matter to stakeholders?
-How does your solution stand out?
-What are the expected outcomes?
+* What issue are you addressing?
+* Why does it matter to stakeholders?
+* How does your solution stand out?
+* What are the expected outcomes?
 
 ### Example:
 "This project aims to optimize supply chain logistics for small-to-medium businesses by reducing inventory holding costs and improving demand forecasting accuracy. Leveraging machine learning models, cloud-based data pipelines, and real-time analytics dashboards, this solution empowers businesses to make data-driven decisions efficiently. Our approach focuses on scalability, cost-effectiveness, and delivering actionable insights to stakeholders."

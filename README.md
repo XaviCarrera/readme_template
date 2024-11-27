@@ -29,6 +29,7 @@ List all tools and technologies used in your project, grouped by their role:
 * Data Engineering: Apache Airflow, Pandas, NumPy
 * Backend: Flask, FastAPI
 * Frontend/Data Visualization Tools: Power BI, Tableau, Plotly
+* CI/CD: Docker, GitHub Actions
 * Cloud: AWS (S3, EC2), GCP, Azure
 * Testing: Pytest, Selenium
 
